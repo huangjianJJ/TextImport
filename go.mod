@@ -1,3 +1,3 @@
-module jay.test.import
+module github.com/huangjianJJ/TextImport
 
 go 1.16
